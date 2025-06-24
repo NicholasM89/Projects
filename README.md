@@ -1,1 +1,3 @@
-This is a demo of a video game I have been developing in my free time. After following Unity's 3D Roll-a-Ball tutorial, I expanded upon it and made a functional game, updates will be happening as I find time to work on it
+This is a collection of various projects in progress I have worked on.
+Undergraduate Research - Data Collection: Sample of 50 WBA boxing matches resulting in KO/TKO, Data Visualization: 5 graphs created in R/RStudio demonstrating results of study.
+Gumball Game - Unity 3D Roll-a-ball style game demo
